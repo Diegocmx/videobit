@@ -33,6 +33,32 @@ Este documento declara a autoria e criação original dos seguintes sistemas:
 
 É **proibido** sem autorização escrita do autor.\
 Entre em contato pelo e-mail ou WhatsApp acima.
+🚫 USO PROIBIDO DA TECNOLOGIA (PORTUGUÊS) 🚫
+
+É estritamente proibido o uso da tecnologia empregada neste código-fonte, incluindo qualquer lógica, algoritmo, estrutura, ou conceito desenvolvido neste projeto (como o protocolo binário emocional VoiceBit, VideoBit, Biobit ou similares), em qualquer aplicação comercial, produto, serviço, API, startup, IA ou sistema com fins lucrativos.
+
+Essa proibição se estende a QUALQUER tecnologia ou domínio (áudio, imagem, vídeo, expressão facial, sensores biométricos, sistemas de IA emocional, etc.).
+
+Este código é autorizado apenas para fins de estudo, testes acadêmicos e uso pessoal, sem fins lucrativos.
+
+Violadores estarão sujeitos a responsabilização legal conforme a Lei de Direitos Autorais e tratados internacionais.
+
+© 2025 – Diego Fernando Cruz. Todos os direitos reservados.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+🚫 USE OF THIS TECHNOLOGY IS PROHIBITED (ENGLISH) 🚫
+
+The use of the technology employed in this source code is strictly prohibited, including any logic, algorithm, structure, or concept created within this project (such as the emotional binary protocol PONUIM / VoiceBit), in any commercial application, product, service, API, startup, AI system, or any other for-profit initiative.
+
+This restriction applies to ANY technological domain (audio, image, video, facial expression, biometric sensors, emotional AI systems, etc.).
+
+This code is allowed **only for educational purposes, academic research and personal non-commercial testing**.
+
+Violators may be subject to legal liability under copyright law and international IP treaties.
+
+© 2025 – Diego Fernando Cruz. All rights reserved.
+
 
 ---
 
