@@ -1,5 +1,3 @@
----
-
 # 📄 Proteção Legal Universal: VoiceBit, VideoBit, BioBit, BitUniversal
 
 **Autor Criador**: Diego Fernando Cruz\
