@@ -71,3 +71,15 @@ Isso ajuda não só a mim e ao Victor, mas também outras famílias e profission
 
 **Muito obrigado!**  
 **Thank you so much!**
+
+## 🔒 Registro de Autoria – VoiceBit
+
+**Arquivo:** `voicebit.py`  
+**Hash SHA256:** `1F2D0F3C7E47E1A64A6FD935802185EB0B9202B153F25B8C8A6AE7C292DBA7F5`  
+**Autor:** Diego Fernando Cruz  
+**Data:** 25/07/2025  
+**Projeto dedicado a:** Victor Katchor Cruz  
+**Descrição:** Motor de análise de voz binária com detecção emocional em tempo real.
+
+> Este hash é a identidade digital da obra e pode ser usado como prova de autoria e anterioridade em qualquer disputa jurídica.
+
