@@ -1,0 +1,63 @@
+LICENÇA DE USO – VOICEBIT / VIDEOBIT / BIOBIT etc..  
+© 2025 Diego Fernando Cruz – Todos os direitos reservados  
+CPF: 232.648.548-30
+
+Esta licença se aplica a todo o conteúdo, código-fonte, lógica, estruturas, protocolos e algoritmos contidos neste projeto, incluindo, mas não se limitando ao sistema VoiceBit, ao Protocolo PONUIM (Protocolo de Unidade Emocional Binária), aos arquivos de calibração .ini/.bin e aos scripts de teste e análise.
+
+USO AUTORIZADO:
+✔ Este projeto pode ser utilizado somente para fins de estudo, pesquisa acadêmica, testes laboratoriais, desenvolvimento pessoal e experimentação sem fins lucrativos.
+✔ Pode ser executado localmente, estudado, modificado para uso privado, ou utilizado em contextos de educação e ciência aberta.
+
+USO PROIBIDO:
+❌ É terminantemente proibido utilizar este código ou qualquer parte dele para:
+  - fins comerciais;
+  - integração com produtos ou serviços pagos;
+  - desenvolvimento de APIs, plugins ou soluções vendidas;
+  - uso por empresas privadas ou startups com fins lucrativos;
+  - qualquer aplicação que envolva monetização direta ou indireta.
+
+PROTEÇÃO DO PROTOCOLO:
+❌ O protocolo de assinatura emocional em bits (PONUIM) é protegido por direito autoral. É proibido utilizar a ideia, estrutura ou lógica do protocolo, mesmo em outros contextos como imagem, vídeo, expressão facial, sensores ou qualquer outro formato digital.
+
+❌ A reprodução, venda, licenciamento ou redistribuição do algoritmo de conversão de voz para bit, ou do sistema de detecção emocional binária, é PROIBIDA em qualquer cenário comercial.
+
+RESPONSABILIDADE LEGAL:
+O uso indevido da tecnologia aqui descrita poderá gerar responsabilização civil e criminal com base na Lei de Direitos Autorais Brasileira (Lei nº 9.610/98), Lei da Propriedade Industrial (Lei nº 9.279/96) e tratados internacionais de proteção à propriedade intelectual.
+
+**Contato oficial do autor:**
+📧 E-mail: diegocodigobits@hotmail.com  
+📞 WhatsApp / Telefone: +55 (14) 98826-9226  
+🪪 CPF: 232.648.548-30  
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+LICENSE AGREEMENT – VOICEBIT / PONUIM  
+© 2025 Diego Fernando Cruz – All rights reserved  
+CPF (BR Tax ID): 232.648.548-30
+
+This license applies to all content, source code, logic, structures, protocols, and algorithms included in this project, including but not limited to the VoiceBit system, the PONUIM Protocol (Binary Emotional Unit Protocol), calibration files (.ini/.bin), and analysis/testing scripts.
+
+AUTHORIZED USE:
+✔ This project may be used **only** for educational, academic, research, personal development, and nonprofit experimental purposes.
+✔ You may run, modify, and study the code for local or scientific use.
+
+PROHIBITED USE:
+❌ It is strictly prohibited to use this code or any portion thereof for:
+  - commercial purposes;
+  - integration with paid products or services;
+  - development of APIs, SaaS tools, or plugins for sale;
+  - use by private companies or startups for profit;
+  - any application that involves direct or indirect monetization.
+
+PROTOCOL PROTECTION:
+❌ The emotional signature in binary form (PONUIM) is under copyright protection. The use of its concept, logic, or structure is **prohibited**, even if applied in other contexts (such as images, video, facial expression, biometric sensors, etc.).
+
+❌ Reproducing, licensing, selling, or redistributing the voice-to-bit algorithm or binary emotional detection engine is FORBIDDEN in any commercial environment.
+
+LEGAL LIABILITY:
+Unauthorized use of this technology may result in civil and criminal penalties under Brazilian Copyright Law (Law No. 9.610/98), Industrial Property Law (Law No. 9.279/96), and international IP treaties.
+
+**Official contact of the author:**
+📧 Email: diegocodigobits@hotmail.com  
+📞 Phone / WhatsApp: +55 (14) 98826-9226  
+🪪 CPF: 232.648.548-30 (Brazilian tax ID)
