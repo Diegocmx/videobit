@@ -16,8 +16,8 @@ Everything here was made with love, hope, and the desire to help people like Vic
 
 ## ☕ Contribua com o criador! | Support the creator!
 
-**Pix:** diegocodigobits@gmail.com  
-**PayPal:** [paypal.me/diegocodigobits](https://paypal.me/diegocodigobits)
+**Pix:** +55 14 98826-9226
+**PayPal:** diegocodigobits@gmail.com
 
 Se este projeto te ajudou ou inspirou, qualquer contribuição é muito bem-vinda. Assim você ajuda a manter o projeto vivo e incentiva a evolução de tecnologias inclusivas!  
 If this project has helped or inspired you, any contribution is very welcome. You help keep the project alive and encourage the evolution of inclusive technologies!
