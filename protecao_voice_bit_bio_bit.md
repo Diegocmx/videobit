@@ -100,18 +100,19 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 ---
 
 **Data da Declaração**: 25/07/2025\
-**Assinatura Digital**: Diego Fernando Cruz – VoiceBit
+**Assinatura Digital**: Diego Fernando Cruz – VideoBit
 
-## 🔒 Registro de Autoria – VoiceBit
+## 🔒 Registro de Autoria – VideoBit
 
-**Arquivo:** `voicebit.py`  
-**Hash SHA256:** `1F2D0F3C7E47E1A64A6FD935802185EB0B9202B153F25B8C8A6AE7C292DBA7F5`  
+**Arquivo:** `videobit.py`  
+**Hash SHA256:** `E9962BDA1AB1D78A535E7ED99BBF1E73F6FC5B8B88F4C04CE3505678376D84F2`  
 **Autor:** Diego Fernando Cruz  
 **Data:** 25/07/2025  
 **Projeto dedicado a:** Victor Katchor Cruz  
-**Descrição:** Motor de análise de voz binária com detecção emocional em tempo real.
+**Descrição:** Motor de análise binária de vídeo com detecção de cor e movimento em tempo real. Sistema otimizado para acessibilidade e análise cognitiva.
 
-> Este hash é a identidade digital da obra e pode ser usado como prova de autoria e anterioridade em qualquer disputa jurídica.
+> Este hash serve como identidade digital única da obra e pode ser usado como prova de autoria e anterioridade legalmente válida.
+
 
 
 
